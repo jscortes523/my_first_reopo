@@ -1,2 +1,2 @@
 # my_first_reopo
-Changeof my readme
+Change of my readme.md
